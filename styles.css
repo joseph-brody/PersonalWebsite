@@ -3,7 +3,7 @@ body, html {
 }
 
 .bgimage {
-  background-image: url("Resources/background.jpg");
+  background-image: url("Resources/background.png");
   height: 100%;
   background-position: center;
   background-size: cover;
