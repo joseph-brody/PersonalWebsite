@@ -1,9 +1,9 @@
 body, html {
     height: 100%;
+    background-image: url("Resources/background.png");
 }
 
 .bgimage {
-  background-image: url("background.png");
   height: 100%;
   background-position: center;
   background-size: cover;
