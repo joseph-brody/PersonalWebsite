@@ -1,12 +1,12 @@
 body, html {
     height: 100%;
+    background-image: url("Resources/background.jpg");
+    background-position: center;
+    background-size: cover;
 }
 
 .bgimage {
-  background-image: url("Resources/background.jpg");
   height: 100%;
-  background-position: center;
-  background-size: cover;
   position: relative;
   color: white;
   font-family: "Courier New", Courier, monospace;
