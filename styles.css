@@ -14,8 +14,8 @@ body, html {
 }
 
 .topleft {
-    width: 50%;
-    height: 50%;
+    width: 20%;
+    height: 20%;
     position: absolute;
     top: 0;
     left: 16px;
